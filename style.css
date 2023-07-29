@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(172, 101, 152);
+}
+#heading{
+    text-align: center;
+    padding: px;
+    margin: 10px;
+    font-size: 70px;
+    color: rgb(12, 121, 12);
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+div {
+    text-align: center;
+    margin: 10px;
+}
+button{
+    width: 250px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin: 20px;
+    border: white;
+    border-radius: 25px;
+    font-size: 20px;
+    color: #000;
+}
+#added {
+    background-color: bisque;
+}
+#reset {
+    background-color: aqua;
+}
+#subtract {
+    background-color: yellow;
+}
+#even {
+    background-color: violet;
+}
+#odd {
+    background-color: salmon;
+}
+#square {
+    background-color: rgb(229, 133, 97);
+}
+#table2{
+    background-color: rgb(7, 239, 53);
+}
+#table3 {
+    background-color: aquamarine;
+}
+#table4 {
+    background-color: chartreuse;
+}
